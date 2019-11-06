@@ -8,6 +8,6 @@ day = date.day
 
 print(day)
 if 'day%2 = 0':
-    print("pair")
+    print("le jour est pair")
 else:    
-    print("impair")
+    print("le jour est impair")
