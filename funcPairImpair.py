@@ -1,7 +1,7 @@
-import datetime
+from datetime import datetime
 
 
-date = datetime.datetime.now()
+date = datetime.now()
 
 
 day = date.day
